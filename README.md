@@ -8,9 +8,9 @@ Usage:
 3.Administration 
   > Scheduler 
      > Custom 1
-        Enabled ✓
-        Time Every Minute
-        Days Everyday
-        Command sh /jffs/koolshare/scripts/ss_autoreload.sh
+        Enabled = ✓
+        Time = Every Minute
+        Days = Everyday
+        Command = sh /jffs/koolshare/scripts/ss_autoreload.sh
      
 
