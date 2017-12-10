@@ -6,6 +6,7 @@ Usage:
 1. Copy ss_autoreload.sh to your /jffs/koolshare/scripts/ folder.
 2. Login to your Web management page of Advanced Tomato.
 3.Administration 
+
   > Scheduler 
      > Custom 1
         Enabled = ✓
