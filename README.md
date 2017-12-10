@@ -9,8 +9,8 @@ Usage:
   > Scheduler 
      > Custom 1
         Enabled = ✓
-        Time = Every Minute
-        Days = Everyday
+        Time = Every Minute;
+        Days = Everyday;
         Command = sh /jffs/koolshare/scripts/ss_autoreload.sh
      
 
