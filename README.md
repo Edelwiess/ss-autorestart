@@ -5,8 +5,7 @@ For auto detecting and restarting shadowsocks module in koolshare of Advanced To
 Usage:
 1. Copy ss_autoreload.sh to your /jffs/koolshare/scripts/ folder.
 2. Login to your Web management page of Advanced Tomato.
-× Administration 
-
+* Administration 
   * > Scheduler 
      * > Custom 1
        * Enabled = ✓
